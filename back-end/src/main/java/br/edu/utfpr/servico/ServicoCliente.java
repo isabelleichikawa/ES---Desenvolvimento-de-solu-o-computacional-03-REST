@@ -17,7 +17,6 @@ import org.springframework.web.bind.annotation.RestController;
 import br.edu.utfpr.dto.ClienteDTO;
 import br.edu.utfpr.dto.PaisDTO;
 import br.edu.utfpr.excecao.NomeClienteMenor5CaracteresException;
-//import io.micrometer.core.ipc.http.HttpSender.Response;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 
